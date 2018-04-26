@@ -1,4 +1,4 @@
-![alt text](https://github.com/ponchofreedo/project-saguaro/extras/saguaro-logo.png "Tentrr Saguaro")
+![alt text](https://github.com/ponchofreedo/project-saguaro/blob/master/extras/saguaro-logo.png "Tentrr Saguaro")
 ---
 
 # Saguaro
